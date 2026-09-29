@@ -1,0 +1,6 @@
+1790705465s 1 https://dandiarchive.s3.amazonaws.com/zarr/174c75d2-fd6a-4a82-ab7c-7ce6af18db78/processing/behavior/corneal_reflection_tracking/cr_is_bad_frame/data/.zarray?versionId=MSO1emfDZiSOF9mYC258UW7ps9iNykR3
+1790705465s 1 https://api.dandiarchive.org/api/zarr/174c75d2-fd6a-4a82-ab7c-7ce6af18db78/files?prefix=processing%2Fbehavior%2Fcorneal_reflection_tracking%2Fcr_is_bad_frame%2Fdata%2F.zarray&download=true
+1790705466s 1 https://dandiarchive.s3.amazonaws.com/zarr/174c75d2-fd6a-4a82-ab7c-7ce6af18db78/processing/behavior/eye_tracking/eye_is_bad_frame/data/.zarray?versionId=ULnTfyxx2IFzdGW8CG5IgIS3x1zl2shW
+1790705466s 1 https://api.dandiarchive.org/api/zarr/174c75d2-fd6a-4a82-ab7c-7ce6af18db78/files?prefix=processing%2Fbehavior%2Feye_tracking%2Feye_is_bad_frame%2Fdata%2F.zarray&download=true
+1790705470s 1 https://dandiarchive.s3.amazonaws.com/zarr/174c75d2-fd6a-4a82-ab7c-7ce6af18db78/processing/behavior/pupil_tracking/pupil_is_bad_frame/data/.zarray?versionId=Ff8yev3KBI9gAUU59.Sx5KwbLf0KiCj4
+1790705470s 1 https://api.dandiarchive.org/api/zarr/174c75d2-fd6a-4a82-ab7c-7ce6af18db78/files?prefix=processing%2Fbehavior%2Fpupil_tracking%2Fpupil_is_bad_frame%2Fdata%2F.zarray&download=true
